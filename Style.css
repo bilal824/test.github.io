@@ -1,0 +1,93 @@
+
+
+
+
+body {
+	color: white;
+	background-image: url("vvvv.jpg");
+	background-attachment: scroll;
+	background-size: cover;
+	background-attachment: fixed;
+	
+
+}
+
+
+
+
+nav{
+	display: inline;
+	height: 10px;
+	text-decoration: none;
+
+}
+nav ul{
+	display: inline block;
+	text-decoration: none;
+
+}
+nav ul li{
+	display: inline; 
+	
+	margin: 12px;
+	text-decoration: none;
+	color: white;
+	font-size: 30px;
+	padding: 5px;
+	margin: 10px;
+	list-style-type: none;
+}	
+nav ul li a{
+	color: black;
+	text-decoration: none;
+}
+
+.homeblue:hover {
+	background-color:#eee;
+	padding: 0px 10px 4px 10px;
+	color: lightgreen;
+}
+
+.homeblue: hover {
+	background-color: blue;
+	padding: 0px 10px 4px 10px;
+}
+.container{
+	size: 500px;
+}
+.site{
+	background-color: #eee;
+	padding: 0px;
+	height: 40px;
+	border-bottom-right-radius: 2px;
+}
+marquee{
+	padding: 10px;
+	margin: 3px;
+}
+.footer{
+	width: auto;
+	height: 150px;
+	background-color: black;
+}
+.footer1{
+	width: auto;
+	height: 150px;
+	background-color: black;
+
+}
+
+
+
+.address{
+	padding-left: 20px;
+	display: inline-block;
+}
+.topright{
+	padding-right: 20px;
+}
+.contact form{
+	background-color: black;
+	width: auto;
+	height: 300px;
+}
